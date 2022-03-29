@@ -1,0 +1,46 @@
+{
+    "Ethereum": {
+        "logo": "Ethereum.png",
+        "scanName": "Etherscan",
+        "scanLogo": "Etherscan.png",
+        "url":"https://etherscan.io"
+    },
+    "BSC": {
+        "logo": "BSC.png",
+        "scanName": "BscSan",
+        "scanLogo": "BscSan.png",
+        "url":"https://bscscan.com"
+    },
+    "xDai": {
+        "logo": "xDai.png",
+        "scanName": "POAP",
+        "scanLogo": "POAP.png",
+        "url":"https://app.poap.xyz/"
+    },
+    "Polygon": {
+        "logo": "Polygon.png",
+        "scanName": "polygonscan",
+        "scanLogo": "polygonscan.png",
+        "url":"https://polygonscan.com"
+    },
+    "Arbitrum": {
+        "logo": "Arbitrum.png",
+        "scanName": "Arbiscan",
+        "scanLogo": "Arbiscan.png",
+        "url":"https://arbiscan.io"
+    },
+    "AVAX": {
+        "logo": "AVAX.png",
+        "scanName": "SnowTrace",
+        "scanLogo": "SnowTrace.png",
+        "url":"https://snowtrace.io"
+    },
+    "OpenSea": {
+        "logo": "OpenSea.png",
+        "url":"https://opensea.io/assets/"
+    },
+    "Rarible": {
+        "logo": "Rarible.png",
+        "url":"https://rarible.com/token/"
+    }
+}
