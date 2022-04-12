@@ -1,46 +1,42 @@
 {
     "Ethereum": {
-        "logo": "Ethereum.png",
-        "scanName": "Etherscan",
-        "scanLogo": "Etherscan.png",
-        "url":"https://etherscan.io"
+        "name":"Ethereum",
+        "scan": "Etherscan"
     },
     "BSC": {
-        "logo": "BSC.png",
-        "scanName": "BscSan",
-        "scanLogo": "BscSan.png",
-        "url":"https://bscscan.com"
+        "name": "BSC",
+        "scan": "BscSan"
     },
-    "xDai": {
-        "logo": "xDai.png",
-        "scanName": "POAP",
-        "scanLogo": "POAP.png",
-        "url":"https://app.poap.xyz/"
+    "Gnosis": {
+        "name": "Gnosis",
+        "scan": "Blockscout"
     },
     "Polygon": {
-        "logo": "Polygon.png",
-        "scanName": "polygonscan",
-        "scanLogo": "polygonscan.png",
-        "url":"https://polygonscan.com"
+        "name": "Polygon",
+        "scan": "polygonscan"
     },
     "Arbitrum": {
-        "logo": "Arbitrum.png",
-        "scanName": "Arbiscan",
-        "scanLogo": "Arbiscan.png",
-        "url":"https://arbiscan.io"
+        "name": "Arbitrum",
+        "scan": "Arbiscan"
     },
     "AVAX": {
-        "logo": "AVAX.png",
-        "scanName": "SnowTrace",
-        "scanLogo": "SnowTrace.png",
-        "url":"https://snowtrace.io"
+        "name": "Avalanche",
+        "scan": "SnowTrace"
     },
-    "OpenSea": {
-        "logo": "OpenSea.png",
-        "url":"https://opensea.io/assets/"
+    "Arweave": {
+        "name":"arweave",
+        "scan":"ViewBlock"
     },
-    "Rarible": {
-        "logo": "Rarible.png",
-        "url":"https://rarible.com/token/"
+    "opensea": {
+        "name": "OpenSea"
+    },
+    "rarible": {
+        "name": "Rarible"
+    },
+    "mirror": {
+        "name": "Mirror"
+    },
+    "gitcoin": {
+        "name": "Gitcoin"
     }
 }
