@@ -38,5 +38,8 @@
     },
     "gitcoin": {
         "name": "Gitcoin"
+    },
+    "poap": {
+        "name": "POAP"
     }
 }
