@@ -1,7 +1,11 @@
 # web3-logos
 This is an archive of supported chains and platforms' logos.
 
-Each logo can be accessed  (with size specified) from:
+As seen on <https://rss3.io>.
+
+[rss3.io | The only search engine to understand Web3.](https://rss3.io/images/og-home.jpg)
+
+Each logo can be accessed (with size specified) via:
 
 `https://thumbor.rss3.dev/unsafe/[w]x[h]/https%3A%2F%2Fraw.githubusercontent.com%2FNaturalSelectionLabs%2Fweb3-logos%2Fmain%2F[chain/platform].png`
 
