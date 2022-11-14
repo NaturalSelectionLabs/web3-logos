@@ -1,0 +1,262 @@
+[
+  {
+    "img": "0x.png",
+    "name": "0x"
+  },
+  {
+    "img": "1inch.png",
+    "name": "1inch"
+  },
+  {
+    "img": "aave.png",
+    "name": "aave"
+  },
+  {
+    "img": "arbiscan.png",
+    "name": "arbiscan"
+  },
+  {
+    "img": "arbitrum.png",
+    "name": "arbitrum"
+  },
+  {
+    "img": "arbitrum_nova.png",
+    "name": "arbitrum nova"
+  },
+  {
+    "img": "arweave.png",
+    "name": "arweave"
+  },
+  {
+    "img": "avax.png",
+    "name": "avax"
+  },
+  {
+    "img": "binance_smart_chain.png",
+    "name": "binance smart chain"
+  },
+  {
+    "img": "bit.png",
+    "name": "bit"
+  },
+  {
+    "img": "blockscout.png",
+    "name": "blockscout"
+  },
+  {
+    "img": "bnb.png",
+    "name": "bnb"
+  },
+  {
+    "img": "boardroom.png",
+    "name": "boardroom"
+  },
+  {
+    "img": "bscscan.png",
+    "name": "bscscan"
+  },
+  {
+    "img": "celo.png",
+    "name": "celo"
+  },
+  {
+    "img": "crossbell.png",
+    "name": "crossbell"
+  },
+  {
+    "img": "crosssync.png",
+    "name": "crosssync"
+  },
+  {
+    "img": "curve.png",
+    "name": "curve"
+  },
+  {
+    "img": "ens_registrar.png",
+    "name": "ens registrar"
+  },
+  {
+    "img": "ethereum.png",
+    "name": "ethereum"
+  },
+  {
+    "img": "ethereum_classic.png",
+    "name": "ethereum classic"
+  },
+  {
+    "img": "etherscan.png",
+    "name": "etherscan"
+  },
+  {
+    "img": "fantom.png",
+    "name": "fantom"
+  },
+  {
+    "img": "farcaster.png",
+    "name": "farcaster"
+  },
+  {
+    "img": "foundation.png",
+    "name": "foundation"
+  },
+  {
+    "img": "galaxy.png",
+    "name": "galaxy"
+  },
+  {
+    "img": "galxe.png",
+    "name": "galxe"
+  },
+  {
+    "img": "gitcoin.png",
+    "name": "gitcoin"
+  },
+  {
+    "img": "gnosis.png",
+    "name": "gnosis"
+  },
+  {
+    "img": "ipfs.png",
+    "name": "ipfs"
+  },
+  {
+    "img": "iqwiki.png",
+    "name": "iqwiki"
+  },
+  {
+    "img": "lens.png",
+    "name": "lens"
+  },
+  {
+    "img": "lenster.png",
+    "name": "lenster"
+  },
+  {
+    "img": "lenstube.png",
+    "name": "lenstube"
+  },
+  {
+    "img": "looksrare.png",
+    "name": "looksrare"
+  },
+  {
+    "img": "metamask.png",
+    "name": "metamask"
+  },
+  {
+    "img": "mirror.png",
+    "name": "mirror"
+  },
+  {
+    "img": "near.png",
+    "name": "near"
+  },
+  {
+    "img": "okx.png",
+    "name": "okx"
+  },
+  {
+    "img": "opensea.png",
+    "name": "opensea"
+  },
+  {
+    "img": "optimism.png",
+    "name": "optimism"
+  },
+  {
+    "img": "pancakeswap.png",
+    "name": "pancakeswap"
+  },
+  {
+    "img": "partybid.png",
+    "name": "partybid"
+  },
+  {
+    "img": "planet.png",
+    "name": "planet"
+  },
+  {
+    "img": "poap.png",
+    "name": "poap"
+  },
+  {
+    "img": "poloniex.png",
+    "name": "poloniex"
+  },
+  {
+    "img": "polygon.png",
+    "name": "polygon"
+  },
+  {
+    "img": "polygon_bridge.png",
+    "name": "polygon bridge"
+  },
+  {
+    "img": "polygonscan.png",
+    "name": "polygonscan"
+  },
+  {
+    "img": "rarible.png",
+    "name": "rarible"
+  },
+  {
+    "img": "snapshot.png",
+    "name": "snapshot"
+  },
+  {
+    "img": "snowtrace.png",
+    "name": "snowtrace"
+  },
+  {
+    "img": "solana.png",
+    "name": "solana"
+  },
+  {
+    "img": "solscan.png",
+    "name": "solscan"
+  },
+  {
+    "img": "spaceid.png",
+    "name": "spaceid"
+  },
+  {
+    "img": "sushiswap.png",
+    "name": "sushiswap"
+  },
+  {
+    "img": "unidata.png",
+    "name": "unidata"
+  },
+  {
+    "img": "uniswap.png",
+    "name": "uniswap"
+  },
+  {
+    "img": "unstoppabledomains.png",
+    "name": "unstoppabledomains"
+  },
+  {
+    "img": "viewblock.png",
+    "name": "viewblock"
+  },
+  {
+    "img": "xdai.png",
+    "name": "xdai"
+  },
+  {
+    "img": "xlog.png",
+    "name": "xlog"
+  },
+  {
+    "img": "zkscan.png",
+    "name": "zkscan"
+  },
+  {
+    "img": "zksync.png",
+    "name": "zksync"
+  },
+  {
+    "img": "zora.png",
+    "name": "zora"
+  }
+]

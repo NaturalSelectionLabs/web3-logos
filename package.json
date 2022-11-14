@@ -1,0 +1,12 @@
+{
+  "name": "web3-logos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./scripts/genDirectory.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
