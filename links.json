@@ -105,6 +105,11 @@
         "picture": "polygon.png"
     },
     {
+        "link": "https://qx.app",
+        "text": "Quix",
+        "picture": "quix.png"
+    },
+    {
         "link": "https://rarible.com",
         "text": "Rarible",
         "picture": "rarible.png"
