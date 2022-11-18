@@ -1,0 +1,137 @@
+[
+    {
+        "link": "https://arweave.net",
+        "text": "Arweave",
+        "picture": "arweave.png"
+    },
+    {
+        "link": "https://bscscan.com",
+        "text": "BscScan",
+        "picture": "bscscan.png"
+    },
+    {
+        "link": "https://celoscan.io",
+        "text": "Celo Chain Explorer",
+        "picture": "celo.png"
+    },
+    {
+        "link": "https://scan.crossbell.io",
+        "text": "Crossbell Scan",
+        "picture": "crossbell.png"
+    },
+    {
+        "link": "https://crossbell.io",
+        "text": "Crossbell",
+        "picture": "crossbell.png"
+    },
+    {
+        "link": "https://etherscan.io",
+        "text": "Etherscan",
+        "picture": "etherscan.png"
+    },
+    {
+        "link": "https://foundation.app",
+        "text": "Foundation",
+        "picture": "foundation.png"
+    },
+    {
+        "link": "https://ftmscan.com",
+        "text": "FTMScan",
+        "picture": "ftmscan.png"
+    },
+    {
+        "link": "https://gitcoin.co",
+        "text": "Gitcoin",
+        "picture": "gitcoin.png"
+    },    
+    {
+        "link": "https://blockscout.com/xdai/mainnet",
+        "text": "Gnosis Chain Explorer",
+        "picture": "gnosis.png"
+    },
+    {
+        "link": "https://ipfs.io",
+        "text": "IPFS",
+        "picture": "ipfs.png"
+    },
+    {
+        "link": "https://cf-ipfs.com",
+        "text": "IPFS",
+        "picture": "ipfs.png"
+    },
+    {
+        "link": "https://iq.wiki",
+        "text": "IQ.wiki",
+        "picture": "iqwiki.png"
+    },
+    {
+        "link": "https://lenster.xyz",
+        "text": "Lenster",
+        "picture": "lenster.png"
+    },
+    {
+        "link": "https://lenstube.xyz",
+        "text": "Lenstube",
+        "picture": "lenstube.png"
+    },
+    {
+        "link": "https://looksrare.org",
+        "text": "LooksRare",
+        "picture": "looksrare.png"
+    },
+    {
+        "link": "https://mirror.xyz",
+        "text": "Mirror",
+        "picture": "mirror.png"
+    },
+    {
+        "link": "https://opensea.io",
+        "text": "OpenSea",
+        "picture": "opensea.png"
+    },
+    {
+        "link": "https://optimistic.etherscan.io",
+        "text": "The Optimism Explorer",
+        "picture": "optimism.png"
+    },
+    {
+        "link": "https://www.partybid.app",
+        "text": "PartyBid",
+        "picture": "partybid.png"
+    },   
+    {
+        "link": "https://polygonscan.com",
+        "text": "polygonscan",
+        "picture": "polygon.png"
+    },
+    {
+        "link": "https://rarible.com",
+        "text": "Rarible",
+        "picture": "rarible.png"
+    },
+    {
+        "link": "https://snowtrace.io",
+        "text": "SnowTrace",
+        "picture": "snowtrace.png"
+    },
+    {
+        "link": "https://solscan.io",
+        "text": "Solscan",
+        "picture": "solscan.png"
+    },
+    {
+        "link": "https://viewblock.io/arweave",
+        "text": "Arweave Block Explorer",
+        "picture": "zksync.png"
+    },
+    {
+        "link": "https://zkscan.io",
+        "text": "zkScan",
+        "picture": "zksync.png"
+    },
+    {
+        "link": "https://market.zora.co",
+        "text": "ZORA",
+        "picture": "zora.png"
+    }
+]
