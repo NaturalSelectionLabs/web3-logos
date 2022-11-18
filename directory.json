@@ -196,6 +196,10 @@
     "name": "polygonscan"
   },
   {
+    "img": "quix.png",
+    "name": "quix"
+  },
+  {
     "img": "rarible.png",
     "name": "rarible"
   },
@@ -222,6 +226,10 @@
   {
     "img": "sushiswap.png",
     "name": "sushiswap"
+  },
+  {
+    "img": "trader_joe.png",
+    "name": "trader joe"
   },
   {
     "img": "unidata.png",
