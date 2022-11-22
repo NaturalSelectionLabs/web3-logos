@@ -40,10 +40,6 @@
     "name": "bit"
   },
   {
-    "img": "blockscout.png",
-    "name": "blockscout"
-  },
-  {
     "img": "bnb.png",
     "name": "bnb"
   },
@@ -196,12 +192,16 @@
     "name": "polygon bridge"
   },
   {
-    "img": "polygonscan.png",
-    "name": "polygonscan"
+    "img": "quickswap.png",
+    "name": "quickswap"
   },
   {
     "img": "quix.png",
     "name": "quix"
+  },
+  {
+    "img": "rainbow.png",
+    "name": "rainbow"
   },
   {
     "img": "rarible.png",
@@ -258,10 +258,6 @@
   {
     "img": "xlog.png",
     "name": "xlog"
-  },
-  {
-    "img": "zkscan.png",
-    "name": "zkscan"
   },
   {
     "img": "zksync.png",
