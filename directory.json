@@ -32,6 +32,10 @@
     "name": "avax"
   },
   {
+    "img": "balancer.png",
+    "name": "balancer"
+  },
+  {
     "img": "binance_smart_chain.png",
     "name": "binance smart chain"
   },
@@ -124,6 +128,10 @@
     "name": "iqwiki"
   },
   {
+    "img": "kyberswap.png",
+    "name": "kyberswap"
+  },
+  {
     "img": "lens.png",
     "name": "lens"
   },
@@ -134,6 +142,10 @@
   {
     "img": "lenstube.png",
     "name": "lenstube"
+  },
+  {
+    "img": "lido.png",
+    "name": "lido"
   },
   {
     "img": "looksrare.png",
@@ -246,6 +258,10 @@
   {
     "img": "unstoppabledomains.png",
     "name": "unstoppabledomains"
+  },
+  {
+    "img": "velodrome.png",
+    "name": "velodrome"
   },
   {
     "img": "viewblock.png",
