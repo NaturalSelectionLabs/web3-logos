@@ -20,8 +20,16 @@
     "name": "arbitrum"
   },
   {
+    "img": "arbitrum_inbox_one.png",
+    "name": "arbitrum inbox one"
+  },
+  {
     "img": "arbitrum_nova.png",
     "name": "arbitrum nova"
+  },
+  {
+    "img": "arbitrum_one.png",
+    "name": "arbitrum one"
   },
   {
     "img": "arweave.png",
@@ -180,6 +188,10 @@
     "name": "pancakeswap"
   },
   {
+    "img": "paraswap.png",
+    "name": "paraswap"
+  },
+  {
     "img": "partybid.png",
     "name": "partybid"
   },
@@ -238,6 +250,10 @@
   {
     "img": "spaceid.png",
     "name": "spaceid"
+  },
+  {
+    "img": "spookyswap.png",
+    "name": "spookyswap"
   },
   {
     "img": "sushiswap.png",
