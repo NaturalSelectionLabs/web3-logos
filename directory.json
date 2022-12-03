@@ -80,6 +80,10 @@
     "name": "curve"
   },
   {
+    "img": "dodo.png",
+    "name": "dodo"
+  },
+  {
     "img": "ens_registrar.png",
     "name": "ens registrar"
   },
