@@ -20,6 +20,10 @@
     "name": "arbitrum"
   },
   {
+    "img": "arbitrum_bridge.png",
+    "name": "arbitrum bridge"
+  },
+  {
     "img": "arbitrum_inbox_one.png",
     "name": "arbitrum inbox one"
   },
@@ -84,6 +88,10 @@
     "name": "dodo"
   },
   {
+    "img": "element.png",
+    "name": "element"
+  },
+  {
     "img": "ens_registrar.png",
     "name": "ens registrar"
   },
@@ -116,12 +124,12 @@
     "name": "ftmscan"
   },
   {
-    "img": "galaxy.png",
-    "name": "galaxy"
-  },
-  {
     "img": "galxe.png",
     "name": "galxe"
+  },
+  {
+    "img": "gem.png",
+    "name": "gem"
   },
   {
     "img": "gitcoin.png",
@@ -188,6 +196,10 @@
     "name": "optimism"
   },
   {
+    "img": "optimism_gateway.png",
+    "name": "optimism gateway"
+  },
+  {
     "img": "pancakeswap.png",
     "name": "pancakeswap"
   },
@@ -218,6 +230,10 @@
   {
     "img": "polygon_bridge.png",
     "name": "polygon bridge"
+  },
+  {
+    "img": "polygonscan.png",
+    "name": "polygonscan"
   },
   {
     "img": "quickswap.png",
@@ -262,6 +278,10 @@
   {
     "img": "sushiswap.png",
     "name": "sushiswap"
+  },
+  {
+    "img": "tofunft.png",
+    "name": "tofunft"
   },
   {
     "img": "traderjoe.png",
