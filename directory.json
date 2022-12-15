@@ -12,6 +12,10 @@
     "name": "aave"
   },
   {
+    "img": "aavegotchi.png",
+    "name": "aavegotchi"
+  },
+  {
     "img": "arbiscan.png",
     "name": "arbiscan"
   },
@@ -66,6 +70,10 @@
   {
     "img": "bscscan.png",
     "name": "bscscan"
+  },
+  {
+    "img": "carv.png",
+    "name": "carv"
   },
   {
     "img": "celo.png",
@@ -170,6 +178,10 @@
   {
     "img": "looksrare.png",
     "name": "looksrare"
+  },
+  {
+    "img": "mars4.png",
+    "name": "mars4"
   },
   {
     "img": "metamask.png",
