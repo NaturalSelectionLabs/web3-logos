@@ -80,6 +80,10 @@
     "name": "celo"
   },
   {
+    "img": "cow.png",
+    "name": "cow"
+  },
+  {
     "img": "crossbell.png",
     "name": "crossbell"
   },
@@ -94,6 +98,10 @@
   {
     "img": "dodo.png",
     "name": "dodo"
+  },
+  {
+    "img": "dydx.png",
+    "name": "dydx"
   },
   {
     "img": "element.png",
@@ -182,6 +190,10 @@
   {
     "img": "mars4.png",
     "name": "mars4"
+  },
+  {
+    "img": "masknetwork.png",
+    "name": "masknetwork"
   },
   {
     "img": "metamask.png",
