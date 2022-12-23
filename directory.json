@@ -80,6 +80,10 @@
     "name": "celo"
   },
   {
+    "img": "coinbase.png",
+    "name": "coinbase"
+  },
+  {
     "img": "cow.png",
     "name": "cow"
   },
