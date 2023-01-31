@@ -16,6 +16,10 @@
     "name": "aavegotchi"
   },
   {
+    "img": "aptos.png",
+    "name": "aptos"
+  },
+  {
     "img": "arbiscan.png",
     "name": "arbiscan"
   },
