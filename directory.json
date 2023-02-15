@@ -64,6 +64,10 @@
     "name": "bit"
   },
   {
+    "img": "blur.png",
+    "name": "blur"
+  },
+  {
     "img": "bnb.png",
     "name": "bnb"
   },
@@ -180,8 +184,16 @@
     "name": "lens"
   },
   {
+    "img": "lens_claiming_app.png",
+    "name": "lens claiming app"
+  },
+  {
     "img": "lenster.png",
     "name": "lenster"
+  },
+  {
+    "img": "lenster_community.png",
+    "name": "lenster community"
   },
   {
     "img": "lenstube.png",
