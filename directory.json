@@ -20,6 +20,10 @@
     "name": "aptos"
   },
   {
+    "img": "arb.png",
+    "name": "arb"
+  },
+  {
     "img": "arbiscan.png",
     "name": "arbiscan"
   },
