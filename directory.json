@@ -68,6 +68,10 @@
     "name": "bit"
   },
   {
+    "img": "bitcoin.png",
+    "name": "bitcoin"
+  },
+  {
     "img": "blur.png",
     "name": "blur"
   },
@@ -172,6 +176,10 @@
     "name": "gnosis"
   },
   {
+    "img": "gnosis_safe.png",
+    "name": "gnosis safe"
+  },
+  {
     "img": "ipfs.png",
     "name": "ipfs"
   },
@@ -240,6 +248,14 @@
     "name": "near"
   },
   {
+    "img": "nouns.png",
+    "name": "nouns"
+  },
+  {
+    "img": "nswap.png",
+    "name": "nswap"
+  },
+  {
     "img": "okx.png",
     "name": "okx"
   },
@@ -254,6 +270,10 @@
   {
     "img": "optimism_gateway.png",
     "name": "optimism gateway"
+  },
+  {
+    "img": "orb.png",
+    "name": "orb"
   },
   {
     "img": "pancakeswap.png",
@@ -272,6 +292,10 @@
     "name": "planet"
   },
   {
+    "img": "planetix.png",
+    "name": "planetix"
+  },
+  {
     "img": "poap.png",
     "name": "poap"
   },
@@ -286,6 +310,10 @@
   {
     "img": "polygon_bridge.png",
     "name": "polygon bridge"
+  },
+  {
+    "img": "polygon_staking.png",
+    "name": "polygon staking"
   },
   {
     "img": "polygonscan.png",
@@ -304,8 +332,16 @@
     "name": "rainbow"
   },
   {
+    "img": "rara.png",
+    "name": "rara"
+  },
+  {
     "img": "rarible.png",
     "name": "rarible"
+  },
+  {
+    "img": "rss3.png",
+    "name": "rss3"
   },
   {
     "img": "snapshot.png",
@@ -322,6 +358,10 @@
   {
     "img": "solscan.png",
     "name": "solscan"
+  },
+  {
+    "img": "sound.png",
+    "name": "sound"
   },
   {
     "img": "spaceid.png",
@@ -362,6 +402,10 @@
   {
     "img": "viewblock.png",
     "name": "viewblock"
+  },
+  {
+    "img": "xcast.png",
+    "name": "xcast"
   },
   {
     "img": "xdai.png",
